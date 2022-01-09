@@ -8,5 +8,5 @@ Text based minigame
 
 - `2022/01/09` - _Version 1.1_
   - Fixed printStats() irregularity
-- `2022/01/09` - _Version 1.0 _
+- `2022/01/09` - _Version 1.0_
   - Initial release
