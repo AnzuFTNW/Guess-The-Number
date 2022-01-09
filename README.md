@@ -6,7 +6,6 @@ Text based minigame
 
 ## Changelog
 
-- `2022/01/09` - _Version 1.2_
+- `2022/01/09` - _Version 1.1_
   - Made printStats() -> winStreak display consitent
-- `2022/01/09` - _Version 1.0 _
-  - Initial release
+- `2022/01/09` - _Version 1.0_
