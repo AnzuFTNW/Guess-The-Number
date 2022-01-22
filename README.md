@@ -2,7 +2,7 @@
 
 Text based minigame
 
-[live demo](https://anzuftnw.github.io/gtn/)
+[live demo](https://anzuftnw.github.io/live-demo/gtn/)
 
 ## Changelog
 
