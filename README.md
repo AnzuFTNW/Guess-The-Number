@@ -1,4 +1,4 @@
-# Guess-The-Number
+# `V1.1` Guess-The-Number
 
 Text based minigame
 
